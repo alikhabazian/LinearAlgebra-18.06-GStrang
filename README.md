@@ -4,9 +4,9 @@ This repository contains materials for the linear algebra course taught by Profe
 
 ## Course Schedule
 
-- [ ] 1. **The geometry of linear equations**
-- [ ] 2. **Elimination with matrices**
-- [ ] 3. **Matrix operations and inverses**
+- [X] 1. **The geometry of linear equations**
+- [X] 2. **Elimination with matrices**
+- [X] 3. **Matrix operations and inverses**
 - [ ] 4. **LU and LDU factorization**
 - [ ] Problem set 1 due
 - [ ] 5. **Transposes and permutations**
