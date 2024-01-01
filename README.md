@@ -9,7 +9,7 @@ This repository contains materials for the linear algebra course taught by Profe
 - [X] 3. **Matrix operations and inverses**
 - [X] 4. **LU and LDU factorization**
 - [X] Problem set 1 due
-- [ ] 5. **Transposes and permutations**
+- [X] 5. **Transposes and permutations**
 - [ ] 6. **Vector spaces and subspaces**
 - [ ] 7. **The nullspace: Solving Ax = 0**
 - [ ] Problem set 2 due
