@@ -11,7 +11,7 @@ This repository contains materials for the linear algebra course taught by Profe
 - [X] Problem set 1 due
 - [X] 5. **Transposes and permutations**
 - [X] 6. **Vector spaces and subspaces**
-- [ ] 7. **The nullspace: Solving Ax = 0**
+- [X] 7. **The nullspace: Solving Ax = 0**
 - [ ] Problem set 2 due
 - [ ] 8. **Rectangular PA = LU and Ax = b**
 - [ ] 9. **Row reduced echelon form**
