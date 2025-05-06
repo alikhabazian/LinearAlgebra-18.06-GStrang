@@ -4,14 +4,14 @@ This repository contains materials for the linear algebra course taught by Profe
 
 ## Course Schedule
 
-- [X] 1. **The geometry of linear equations**
-- [X] 2. **Elimination with matrices**
-- [X] 3. **Matrix operations and inverses**
-- [X] 4. **LU and LDU factorization**
-- [X] Problem set 1 due
-- [X] 5. **Transposes and permutations**
-- [X] 6. **Vector spaces and subspaces**
-- [X] 7. **The nullspace: Solving Ax = 0**
+- [ ] 1. **The geometry of linear equations**
+- [ ] 2. **Elimination with matrices**
+- [ ] 3. **Matrix operations and inverses**
+- [ ] 4. **LU and LDU factorization**
+- [ ] Problem set 1 due
+- [ ] 5. **Transposes and permutations**
+- [ ] 6. **Vector spaces and subspaces**
+- [ ] 7. **The nullspace: Solving Ax = 0**
 - [ ] Problem set 2 due
 - [ ] 8. **Rectangular PA = LU and Ax = b**
 - [ ] 9. **Row reduced echelon form**
